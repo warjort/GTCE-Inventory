@@ -1,0 +1,37 @@
+tile.inventory_pipe.name=物品管道
+
+cover.interface.title=物品网络接口设置 (%s)
+metaitem.interface.module.lv.name=物品网络接口 (LV)
+metaitem.interface.module.mv.name=物品网络接口 (MV)
+metaitem.interface.module.hv.name=物品网络接口 (HV)
+metaitem.interface.module.ev.name=物品网络接口 (EV)
+metaitem.interface.module.iv.name=物品网络接口 (IV)
+metaitem.interface.module.luv.name=物品网络接口 (LUV)
+metaitem.interface.module.zpm.name=物品网络接口 (ZPM)
+metaitem.interface.module.uv.name=物品网络接口 (UV)
+
+cover.stock.title=物品供应接口 Settings (%s)
+metaitem.stock.module.lv.name=物品供应接口 (LV)
+metaitem.stock.module.mv.name=物品供应接口 (MV)
+metaitem.stock.module.hv.name=物品供应接口 (HV)
+metaitem.stock.module.ev.name=物品供应接口 (EV)
+metaitem.stock.module.iv.name=物品供应接口 (IV)
+metaitem.stock.module.luv.name=物品供应接口 (LUV)
+metaitem.stock.module.zpm.name=物品供应接口 (ZPM)
+metaitem.stock.module.uv.name=物品供应接口 (UV)
+
+keep.in.stock.status.busy=机器正忙
+keep.in.stock.status.cleaning=正在输出物品
+keep.in.stock.status.instock=库存充足
+keep.in.stock.status.inventory=机器中存在物品
+# This is meant to be blank (na = not applicable, if you want something to appear for this status)
+keep.in.stock.status.na=
+keep.in.stock.status.noaccept=无法接收的输入
+keep.in.stock.status.noingredients=材料不足
+keep.in.stock.status.nomachine=无机器
+keep.in.stock.status.norecipe=无配方
+keep.in.stock.status.processing=处理中
+keep.in.stock.status.toobig=可处理的配方过多
+keep.in.stock.status.wrongtier=电压错误
+
+gtceinventory.machine.workbench.name=物品网络合成站
